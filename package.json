@@ -1,0 +1,24 @@
+{
+  "name": "random-pass-daco",
+  "version": "1.0.0",
+  "description": "Password generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dacoop06/RANDOM-PASS-DACO.git"
+  },
+  "keywords": [],
+  "author": "DacoDev <juanmare16@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dacoop06/RANDOM-PASS-DACO/issues"
+  },
+  "homepage": "https://github.com/dacoop06/RANDOM-PASS-DACO#readme",
+  "bin":{
+    "RANDOM-PASS-DACO": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
